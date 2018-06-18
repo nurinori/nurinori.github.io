@@ -26,6 +26,8 @@
 * svg-спрайты
 * mobile first
 
+[Исходники](https://github.com/nurinori/blog)
+
 #### 2. Мишка
 
 [Посмотреть вёрстку](https://nurinori.github.io/mishka/) 
@@ -46,6 +48,8 @@
 * svg-спрайты
 * mobile first
 
+[Исходники](https://github.com/nurinori/96216-technomart)
+
 #### 3. Техномарт
 
 [Посмотреть вёрстку](https://nurinori.github.io/tehnomart/)
@@ -62,3 +66,5 @@
 * Кроссбраузерность: Chrome, Opera, Firefox, Safari, Edge, IE 11
 * a11y
 * Слайдер на чистом css
+
+[Исходники](https://github.com/nurinori/96216-technomart)
